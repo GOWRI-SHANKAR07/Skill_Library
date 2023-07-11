@@ -1,0 +1,15 @@
+export const ADD_NAME = 'name';
+export const ADD_USER_SKILL = 'userskill';
+export const ADD_USER_LOCATION = 'userlocation';
+export const REGISTER_NEW_USER = 'registerNewUser';
+export const SET_Authentication_State = 'SETAuthenticationstate';
+export const ADD_USER_PHONENUMBER = 'ADD_USER_PHONENUMBER';
+export const IS_OLD_USER = 'IS_OLD_USER';
+export const SET_SEARCH_RESULT = 'SET_SEARCH_RESULT';
+export const SET_REFRESH = 'SET_REFRESH';
+export const SET_USER_TAGLINE = 'SET_USER_TAGLINE';
+export const ADD_USER_NAME = 'UserName';
+export const ADD_USER_GENDER = 'UserGender';
+export const ADD_USER_DESCRIPTION = 'UserDescription';
+export const ADD_USER_ROLE = 'UserRole';
+export const ADD_USER_DOB = 'UserDob';
